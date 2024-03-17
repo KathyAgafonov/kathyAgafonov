@@ -8,7 +8,7 @@
 - [Web Game - Dreams Invader - Rick VS. Scary Terry - HTML, CSS, Js](https://github.com/KathyAgafonov/Dreams-Invader-web-game)
 - [Recipes Website - Vue.js, Node.js, MySQL, Express.js](https://github.com/KathyAgafonov/Monicas-Recipe-Site)
 
-### Information Retrieval Projects
+### Information Retrieval Project
 - [Wikipedia Search Engine - Python, PySpark, GCP](https://github.com/KathyAgafonov/Information-Retrieval-Engine)
 
 ### System and Multi-Thread Applications
